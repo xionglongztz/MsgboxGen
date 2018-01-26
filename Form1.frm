@@ -9,6 +9,7 @@ Begin VB.Form Form1
    ClientTop       =   375
    ClientWidth     =   11475
    ForeColor       =   &H8000000C&
+   Icon            =   "Form1.frx":0000
    LinkTopic       =   "Form1"
    MaxButton       =   0   'False
    ScaleHeight     =   5250
