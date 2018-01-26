@@ -2,4 +2,3 @@
 雄龙ztz开发的一款对话框生成器，使用visual basic制作
 视频介绍：https://www.bilibili.com/video/av12725478/
 能生成VB或者vbs对话框代码
-（初次使用GitHub好不习惯=_=）
